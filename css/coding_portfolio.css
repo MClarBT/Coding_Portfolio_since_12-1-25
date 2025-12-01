@@ -1,0 +1,19 @@
+/*This is the CSS code for my coding portfolio.*/
+
+h1 {
+	text-align: center;
+	color: blueviolet;
+}
+
+article {
+	text-align: center;
+}
+
+body {
+
+	background-color: bisque;
+}
+
+nav > a {
+	padding: 30px;
+}
